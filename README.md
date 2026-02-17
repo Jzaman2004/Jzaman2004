@@ -1,15 +1,25 @@
 ```markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=200&section=header&text=Jawad%20Zaman&fontSize=50&fontColor=ffd700&animation=fadeIn&fontAlignY=35"/>
+<!-- Animated Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a22,100:ffd700&height=200&section=header"/>
 
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Architect+of+Ethical+Intelligence;Triple+Major%3A+CS+%2B+Math+%2B+Business;Global+Researcher+%26+Innovator" alt="Typing SVG" />
-</h3>
+<!-- Main Title -->
+<h1 style="color: #ffd700;">
+  ✨ Jawad Zaman ✨
+</h1>
+
+<!-- Animated Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Architect+of+Ethical+Intelligence;Triple+Major%3A+CS+%2B+Math+%2B+Business;Global+Researcher+%26+Innovator" alt="Typing SVG" />
+
+<br/>
 
 ### 🎓 Triple Major: CS • Math • Business | 🌍 Global Researcher | 🏆 NASA Global Nominee (2x)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Building+AI+that+serves+humanity;4.0+GPA+%7C+Published+Researcher;Columbia+DevFest+Winner;NRHC+Best+Paper+of+the+Year)](https://git.io/typing-svg)
+<br/>
+
+<!-- Secondary Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Building+AI+that+serves+humanity;4.0+GPA+%7C+Published+Researcher;Columbia+DevFest+Winner;NRHC+Best+Paper+of+the+Year" alt="Typing SVG" />
 
 </div>
 
@@ -91,6 +101,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jzaman2004&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffd700&text_color=f8f5f0&icon_color=ffd700&border_color=ffd700&hide_border=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jzaman2004&layout=compact&theme=dark&bg_color=0a0a0a&title_color=ffd700&text_color=f8f5f0&border_color=ffd700&hide_border=false" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jzaman2004&theme=dark&background=0a0a0a&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideNums=f8f5f0&sideLabels=ffd700&dates=f8f5f0&currStreakNum=ffd700&border=ffd700" />
@@ -240,8 +252,6 @@ timeline
 
 ### 💡 Open to Research Collaborations • Speaking Engagements • Mentorship Opportunities
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=120&section=footer" width="100%"/>
-
 </div>
 
 <!-- Activity Graph -->
@@ -250,6 +260,11 @@ timeline
 </div>
 
 ---
+
+<!-- Footer Wave -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,50:1a1a22,100:0a0a0a&height=120&section=footer"/>
+</div>
 
 <div align="center">
 
