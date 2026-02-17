@@ -381,10 +381,7 @@ Generative AI for costume design with automated pattern generation and market an
   <img src="https://streak-stats.demolab.com?user=Jzaman2004&theme=tokyonight&background=0a0a0a&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideNums=f8f5f0&sideLabels=ffd700&dates=f8f5f0&currStreakNum=ffd700&border=ffd700&stroke=ffd700" alt="GitHub Streak"/>
 </a>
 
-<br/><br/>
-
-<!-- YELLOW/GOLD THEMED CONTRIBUTION CALENDAR -->
-<img src="https://ghchart.rshah.org/ffd700/Jzaman2004" alt="GitHub Contribution Calendar" width="100%"/>
+<br/>
 
 </div>
 
@@ -434,7 +431,7 @@ Forest biomass prediction using NEON remote sensing data
 ---
 
 **⛓️ Healithic Blockchain EMR**
-*Block Chain Olympiad Bangladesh*
+*Blockchain Olympiad Bangladesh*
 
 Patient-controlled medical records with cryptographic security
 
