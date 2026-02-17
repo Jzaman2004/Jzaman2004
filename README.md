@@ -61,7 +61,7 @@ Elegant, responsive showcase featuring interactive project galleries, research p
 
 **Tech:** Python • Machine Learning • GIS
 
-[![GitHub](https://img.shields.io/badge/View_Code-GitHub-ffd700?style=flat&logo=github&logoColor=ffd700)](https://github.com/Jzaman2004/RESQMAP)
+[![GitHub](https://img.shields.io/badge/View_Code-GitHub-ffd700?style=flat&logo=github&logoColor=ffd700)](https://github.com/Jzaman2004/Xylem-Finder)
 
 </td>
 <td width="33%" align="center">
