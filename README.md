@@ -1,12 +1,20 @@
-```markdown
 <div align="center">
+
+<!-- Snake Animation Eating Contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
 
 <!-- Animated Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a22,100:ffd700&height=200&section=header"/>
 
-<!-- Main Title -->
-<h1 style="color: #ffd700;">
-  ✨ Jawad Zaman ✨
+<!-- STATIONARY Main Title - NO ANIMATION -->
+<h1 style="font-family: 'Cinzel', serif; font-size: 70px; font-weight: 700; color: #ffd700; margin: 20px 0;">
+  JAWAD ZAMAN
 </h1>
 
 <!-- Animated Subtitle -->
@@ -20,6 +28,78 @@
 
 <!-- Secondary Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Building+AI+that+serves+humanity;4.0+GPA+%7C+Published+Researcher;Columbia+DevFest+Winner;NRHC+Best+Paper+of+the+Year" alt="Typing SVG" />
+
+</div>
+
+---
+
+## ⭐ Spotlight Projects
+
+<div align="center">
+
+### 🌟 Featured Work • Click to Explore
+
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-ffd700?style=for-the-badge&labelColor=0a0a0a)](https://jawadzaman.com)
+
+**My Digital Identity**
+
+Full-stack showcase of research, projects, and global impact
+
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/Jzaman2004/Portfolio)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/Jzaman2004/Portfolio)
+[![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/Jzaman2004/Portfolio)
+
+</td>
+<td width="25%" align="center">
+
+[![Forager](https://img.shields.io/badge/🌿_Forager-DevPost-ffd700?style=for-the-badge&labelColor=0a0a0a)](https://devpost.com/software/forager-on-the-go-gs9f8m)
+
+**AI Species ID**
+
+Columbia DevFest Winner • Sustainable foraging with ResNet + Llama
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/Jzaman2004/Forager_On_The_Go)
+[![Computer Vision](https://img.shields.io/badge/CV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://github.com/Jzaman2004/Forager_On_The_Go)
+
+</td>
+<td width="25%" align="center">
+
+[![CosplayForge](https://img.shields.io/badge/🎭_CosplayForge-DevPost-ffd700?style=for-the-badge&labelColor=0a0a0a)](https://devpost.com/software/cosplayforge)
+
+**AI Cosplay Design**
+
+Generative AI platform for costume planning & market analytics
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/Jzaman2004/COSPLAYFORGE)
+[![AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://github.com/Jzaman2004/COSPLAYFORGE)
+
+</td>
+<td width="25%" align="center">
+
+[![NeuroNudge](https://img.shields.io/badge/🧠_NeuroNudge-GitHub-ffd700?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Jzaman2004/NeuroNudge)
+
+**Ethical Persuasion AI**
+
+NLP-powered communication tool for neurological impairments
+
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/Jzaman2004/NeuroNudge)
+[![NLP](https://img.shields.io/badge/NLP-4285F4?style=flat&logo=google&logoColor=white)](https://github.com/Jzaman2004/NeuroNudge)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🏆 Combined Impact:** 3 Hackathon Wins • 2 DevPost Features • 1000+ Users Reached
+
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-→-ffd700?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Jzaman2004?tab=repositories)
 
 </div>
 
@@ -98,19 +178,27 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jzaman2004&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffd700&text_color=f8f5f0&icon_color=ffd700&border_color=ffd700&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jzaman2004&layout=compact&theme=dark&bg_color=0a0a0a&title_color=ffd700&text_color=f8f5f0&border_color=ffd700&hide_border=false" />
+  
+<a href="https://github.com/Jzaman2004">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jzaman2004&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffd700&text_color=f8f5f0&icon_color=ffd700&border_color=ffd700&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jzaman2004&layout=compact&langs_count=8&theme=dark&bg_color=0a0a0a&title_color=ffd700&text_color=f8f5f0&border_color=ffd700&hide_border=false"/>
+</a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jzaman2004&theme=dark&background=0a0a0a&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideNums=f8f5f0&sideLabels=ffd700&dates=f8f5f0&currStreakNum=ffd700&border=ffd700" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jzaman2004&theme=dark&background=0a0a0a&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideNums=f8f5f0&sideLabels=ffd700&dates=f8f5f0&currStreakNum=ffd700&border=ffd700&stroke=ffd700" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jzaman2004&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 More Featured Projects
 
 <table>
 <tr>
@@ -136,11 +224,11 @@ Blockchain-secured patient-controlled EMR system
 <tr>
 <td width="50%">
 
-### 🌿 [Forager on the Go](https://devpost.com/software/forager-on-the-go-gs9f8m)
-AI species identification for sustainable foraging
-> **Impact:** Columbia DevFest "Hot Sauce" Winner
+### 💻 [SJNY CS Club Website](https://sjnycsclub.com)
+Full-stack platform for university computer club
+> **Impact:** Serving 500+ students & faculty
 
-**Tech:** ResNet • Llama • Computer Vision
+**Tech:** Next.js • TypeScript • React
 
 </td>
 <td width="50%">
@@ -229,7 +317,7 @@ timeline
 
 > ### *"True innovation emerges when technical excellence serves human dignity."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=800&lines=Building+AI+that+protects+the+vulnerable;Amplifying+the+unheard+through+technology;Ensuring+tech+remains+a+force+for+collective+elevation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=900&lines=Building+AI+that+protects+the+vulnerable;Amplifying+the+unheard+through+technology;Ensuring+tech+remains+a+force+for+collective+elevation;Where+innovation+meets+ethical+responsibility" />
 
 </div>
 
@@ -261,16 +349,21 @@ timeline
 
 ---
 
-<!-- Footer Wave -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,50:1a1a22,100:0a0a0a&height=120&section=footer"/>
-</div>
-
+<!-- FOOTER - Matching Obsidian/Gold Colors -->
 <div align="center">
 
-**Built with 💛 by Jawad Zaman • Last Updated: February 2026**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,50:1a1a22,100:0a0a0a&height=150&section=footer"/>
+
+<br/>
+
+**Built with 💛 by Jawad Zaman**
+
+*Last Updated: February 2026*
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jzaman2004&color=ffd700&style=for-the-badge&label=PROFILE+VIEWS)
 
+<br/>
+
 </div>
-```
